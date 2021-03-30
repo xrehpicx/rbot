@@ -1,0 +1,23 @@
+{
+  "name": "ebotjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-data": "^2.81.0",
+    "mineflayer": "^3.6.0",
+    "mineflayer-armor-manager": "^1.4.0",
+    "mineflayer-auto-eat": "^2.0.0",
+    "mineflayer-pathfinder": "^1.6.1",
+    "mineflayer-pvp": "^1.0.2",
+    "prismarine-viewer": "^1.19.2"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
