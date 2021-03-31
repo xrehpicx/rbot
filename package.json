@@ -18,6 +18,7 @@
     "mineflayer-auto-eat": "^2.0.0",
     "mineflayer-pathfinder": "^1.6.1",
     "mineflayer-pvp": "^1.0.2",
+    "mineflayer-tool": "^1.1.0",
     "prismarine-viewer": "^1.19.2"
   },
   "devDependencies": {
