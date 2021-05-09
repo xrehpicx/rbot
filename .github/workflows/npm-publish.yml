@@ -2,7 +2,7 @@ name: npm-publish
 on:
   push:
     branches:
-      - main # Change this to your default branch
+      - main
 jobs:
   npm-publish:
     name: npm-publish
@@ -19,7 +19,6 @@ jobs:
         commit_pattern: "^release (\\S+)"
         workspace: "."
         publish_command: "npm"
-        publish_args: "--non-interactive"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
         NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
