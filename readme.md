@@ -15,7 +15,12 @@ properties:
 - onend: callback function that runs when bot leaves the server
 
 ## example:
+first install simpler-minecraft-bot by
+
+    npm i simpler-minecraft-bot
 ```
+const Bot = require('simpler-minecraft-bot')
+
 const mybot = Bot({
     name: 'rbot',
     host: 'abc.aternos.me',
