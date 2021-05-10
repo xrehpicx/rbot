@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
+    "chalk": "^4.1.1",
     "compromise": "^13.11.2",
     "compromise-sentences": "^0.3.0",
     "minecraft-data": "^2.81.0",
