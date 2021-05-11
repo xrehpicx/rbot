@@ -27,6 +27,7 @@
     "mineflayer-tool": "^1.1.0",
     "prismarine-viewer": "^1.19.2",
     "serverline": "^1.5.0",
+    "termux": "^1.1.1",
     "util": "^0.12.3"
   },
   "devDependencies": {
