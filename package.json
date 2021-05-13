@@ -1,6 +1,6 @@
 {
   "name": "simpler-minecraft-bot",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "simpler minecraft bot",
   "main": "index.js",
   "scripts": {
